@@ -1,7 +1,5 @@
 # Projetos Utilizando HTML e CSS
-Aplicando as instruções
-
-
+Aplicando as instruções 👍
 
 E usando várias tag´s e customizações com css.
 
